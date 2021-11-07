@@ -5,8 +5,6 @@
 - 👨‍🎓 Estudante de Computação pela UFRPE(Universidade Federal Rural de Pernambuco).
 - 📧 E-mail: vieira123ruangv@gmail.com
 - 📞 Telefone: 81 999328989
-- 🙋‍♂️ Linkedin: https://www.linkedin.com/in/ruan-guedes-vieira-b82441180
-
 
 <div align="center">
   <a href="https://github.com/R-gu3des">
