@@ -3,7 +3,6 @@
 
 - 👨‍💻 Trabalho um pouco no back-end e no front-end.
 - 👨‍🎓 Estudante de Computação pela UFRPE(Universidade Federal Rural de Pernambuco).
-- 📧 E-mail: vieira123ruangv@gmail.com
 - 📞 Telefone: 81 999328989
 
 <div align="center">
