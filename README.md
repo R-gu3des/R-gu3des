@@ -1,7 +1,7 @@
 ### Olá! Eu sou Ruan Guedes 👋
 
 
-- 👨‍💻 Engenheiro/Cientista de Dados no Serviçõ Nacional de Aprendizagem Idustrial (SENAI).
+- 👨‍💻 Engenheiro/Cientista de Dados no Serviço Nacional de Aprendizagem Idustrial (SENAI).
 - 👨‍🎓 Estudante de Computação pela Universidade Federal Rural de Pernambuco (UFRPE).
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Estácio.
 - 📞 Telefone: 81 999328989
@@ -13,6 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img align="center" alt="Ruan-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
