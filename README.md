@@ -1,7 +1,7 @@
 ### Olá! Eu sou Ruan Guedes 👋
 
 
-- 👨‍💻 Engenheiro de Dados NTT Data.
+- 👨‍💻 Engenheiro de Dados na NTT Data.
 - 👨‍🎓 Estudante de Computação pela Universidade Federal Rural de Pernambuco (UFRPE).
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio.
 - 📞 Telefone: 81 999328989
