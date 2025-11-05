@@ -1,9 +1,9 @@
 ### Olá! Eu sou Ruan Guedes 👋
 
 
-- 👨‍💻 Engenheiro/Cientista de Dados no Serviço Nacional de Aprendizagem Industrial (SENAI).
+- 👨‍💻 Engenheiro de Dados NTT Data.
 - 👨‍🎓 Estudante de Computação pela Universidade Federal Rural de Pernambuco (UFRPE).
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Estácio.
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio.
 - 📞 Telefone: 81 999328989
 
 <div align="center">
